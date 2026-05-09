@@ -1,6 +1,4 @@
-# AI Model Comparison Documentation
-
-> A structured Markdown documentation version of the provided AI model comparison sheet. The content is reorganized for readability while preserving the original fields, model columns, recommendations, cautions, pricing, technical details, benchmarks, enterprise considerations, safety risks, testing checklist, sources, and final recommendations.
+# AI Model Documentation
 
 ## Document Metadata
 
